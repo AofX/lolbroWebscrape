@@ -16,7 +16,7 @@ abilityDiv = soup.findAll('div', 'ability-info-container')
 
 #abilityCoeff = soup.findAll('dd', '')
 
-# for dd in abilityCoeff:
+for dd in abilityCoeff:
 # print('++++++++')
 # print(dd.text)
 # print('++++++++')
